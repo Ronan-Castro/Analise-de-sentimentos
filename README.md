@@ -19,11 +19,18 @@ https://github.com/Paulognunes
 
 ***Todos são da biblioteca SciKit-Learn***
 
-LinearSVC
-GaussianNB
-LogisticRegression
-MLPClassifier
-KNeighborsClassifier
-RandomForestClassifier
-AdaBoostClassifier
-GradientBoostingClassifier
+LinearSVC,
+
+GaussianNB,
+
+LogisticRegression,
+
+MLPClassifier,
+
+KNeighborsClassifier,
+
+RandomForestClassifier,
+
+AdaBoostClassifier e
+
+GradientBoostingClassifier.
