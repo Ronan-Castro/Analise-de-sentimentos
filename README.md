@@ -17,7 +17,7 @@ https://github.com/Paulognunes
 
 *Algoritmos:
 
-***Todos são da biblioteca SciKit Learn***
+***Todos são da biblioteca SciKit-Learn***
 
 LinearSVC
 GaussianNB
