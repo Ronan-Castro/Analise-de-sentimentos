@@ -34,3 +34,5 @@ RandomForestClassifier,
 AdaBoostClassifier e
 
 GradientBoostingClassifier.
+
+***Link dos Dados: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment***
